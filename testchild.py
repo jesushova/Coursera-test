@@ -1,2 +1,2 @@
-#Adding a new file in child branch
-print ("Inside child branch")
+# Print Welcome to Python on Github
+print("Hello Osei welcome to Python on GitHub")
